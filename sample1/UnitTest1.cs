@@ -9,7 +9,7 @@ namespace sample1
         [TestMethod]
         public void TestMethod1()
         {
-            string s = "shubham";
+            string s = "shubhm";
 
             Assert.AreEqual("shubham",s);
         }
